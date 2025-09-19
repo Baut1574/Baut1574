@@ -95,10 +95,20 @@
   </a>
 </div>
 
-<!-- Visitas al perfil -->
-<div align="center">
-  
-[![](https://visitcount.itsvg.in/api?id=Baut1574&label=Profile%20Views&color=1&pretty=false)](https://visitcount.itsvg.in)
+<!-- Social Media -->
+<h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Conectate con migo 🤝 </h3>
 
+<p align="center">
+
+ <div align="center"  class="icons-social" style="margin-left: 10px;">
+        <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/juan-bautista-data-scientist/">
+			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>  
+        <a style="margin-left: 10px;" target="_blank" href="https://github.com/Baut1574">
+		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
+		<a style="margin-left: 10px;" target="_blank" href="https://stackoverflow.com/users/24717562/juan-bautista">
+				<img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/40/000000/external-stack-overflow-is-a-question-and-answer-site-for-professional-logo-color-tal-revivo.png"></a>
+        <a style="margin-left: 10px;" target="_blank" href="https://www.instagram.com/juan.bautista_722/">
+			<img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png"></a>
+		<a style="margin-left: 10px;" target="_blank" href="https://x.com/BautistaRTHV">
+			<img src="https://img.icons8.com/doodle/1x/twitter-squared--v2.png" ></a>
 </div>
-
