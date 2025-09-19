@@ -73,27 +73,24 @@
 <!-- Estadísticas -->
 ## <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width=30px></picture> Estadísticas de GitHub
 
-<p align="left">
-<table align="left">
-<tr border="none">
-<td width="50%" align="center">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=Baut1574&theme=dark&show_icons=true&count_private=true" />
-  <br></br>
-  <img title="🔥 Estadísticas de racha" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Baut1574&theme=dark&hide_border=false" /> 
-</td>
-  
-<td width="50%" align="center">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Baut1574&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=7"/>
-</td>
-</tr>
-</table>
-</p>        
+<div align="center">
 
-<div align=left>
-  <a href="https://github.com/ryo-ma/github-profile-trophy" title="Ver más">
-      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=Baut1574&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
+<!-- Stats generales -->
+<img src="https://github-readme-stats.vercel.app/api?username=Baut1574&theme=dark&show_icons=true&count_private=true" alt="Estadísticas de GitHub de Baut1574" />
+
+<!-- Lenguajes más usados -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Baut1574&theme=dark&layout=compact&langs_count=7&hide_border=false" alt="Lenguajes más usados en GitHub de Baut1574" />
+
+</div>
+
+---
+
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy" title="Ver más trofeos">
+      <img src="https://github-profile-trophy.vercel.app/?username=Baut1574&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="Trofeos de GitHub de Baut1574" />
   </a>
 </div>
+
 
 <!-- Social Media -->
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Conectate con migo 🤝 </h3>
