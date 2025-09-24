@@ -13,7 +13,7 @@
 </picture>
 
 - 👨‍💻 **Actualmente soy** `Jr en Desarollo`, `Data Science` y `Data Analyst`  
-- 💥 Puedes ver [Mi Portafolio]([https://baut1574.github.io](https://github.com/Baut1574?tab=repositories)) para algunos proyectos realizados.  
+- 💥 Puedes ver [Mi Portafolio](https://github.com/Baut1574?tab=repositories) para algunos proyectos realizados.  
 - 📧 Siéntete libre de **contactarme** [Enviar correo](mailto:juanbautista0404@gmail.com)  
 - 🤓 Siempre cree que **“Eres lo que amas”**  
 
